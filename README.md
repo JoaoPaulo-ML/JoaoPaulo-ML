@@ -2,7 +2,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo-ML&show_icons=true&count_private=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo-ML&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
