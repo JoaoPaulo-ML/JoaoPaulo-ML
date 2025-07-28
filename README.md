@@ -46,7 +46,7 @@ Tenho experiência com as seguintes tecnologias:
 </p>
 
 
-### Perfil (**Clique aqui**)
+## Perfil (Clique aqui)
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/joão-marques-desenvolvedor" target="_blank">
